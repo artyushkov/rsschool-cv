@@ -6,8 +6,7 @@
 <li><strong>Linkedin:</strong> <a href="https://www.linkedin.com/in/evgeny-artyushkov-63b195214/">Artyushkov Evgeny</a></li>
 <li><strong>Instagram:</strong> <a href="https://www.instagram.com/dr.artyushkov/">:Женя Артюшков</a></li>
 <h2 id="about-me"><strong>About Me</strong><a class="anchorjs-link " href="#about-me" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
-I am learning a programming language. I am interested in getting new knowledge.
-I am responsible and focused on my work
+I’m interested in programming and have started learning the JavaScript programming language.  I’m eager to learn new things to gain new knowledge, skills, and experience. I’m focused on my work, detail-oriented and an effective communicator.
 <h2 id="education"><strong>Education</strong><a class="anchorjs-link " href="#education" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
 <li><strong>University:</strong> Gomel State Medical Universitet </li>
 <h2 id="languages"><strong>Languages</strong><a class="anchorjs-link " href="#english" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
